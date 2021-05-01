@@ -1,0 +1,26 @@
+{
+  "title": "Observatorium Tutorials; v0.1.0",
+  "description": "Introductions and Guide to Observatorium Usage \uD83E\uDD17",
+  "courses": [
+    {
+      "course_id": "1-k8s-observatorium",
+      "title": "Introduction to Observatorium on Kubernetes",
+      "description": "Work in Progress: Stay Tuned"
+    },
+    {
+      "course_id": "2-k8s-observatorium-with-helm",
+      "title": "Using Observatorium on Kubernetes via Helm",
+      "description": "Work in Progress: Stay Tuned"
+    },
+    {
+      "course_id": "3-k8s-observatorium-operator",
+      "title": "Using Observatorium on Kubernetes via Operator",
+      "description": "Work in Progress: Stay Tuned"
+    },
+    {
+      "course_id": "4-k8s-observatorium-with-olm",
+      "title": "Using Observatorium on Kubernetes via OLM",
+      "description": "Work in Progress: Stay Tuned"
+    }
+  ]
+}
